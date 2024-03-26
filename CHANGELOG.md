@@ -12,3 +12,9 @@ nav_order: 108
 
 アップデート内容:
 - テストテスト -->
+
+
+### 2024/03/26 
+
+- [物件毎型枠マスタの登録]({% link docs/product-registration/property-formwork/index.md%})　追加
+
