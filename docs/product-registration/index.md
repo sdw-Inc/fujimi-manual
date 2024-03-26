@@ -13,5 +13,5 @@ has_children: true
 * フロー図  
 
 <table><tr><td>
-<img src="../../../assets/images/product-registration/1.png" width="100%">
+<img src="../../assets/images/product-registration/1.png" width="100%">
 </td></tr></table>

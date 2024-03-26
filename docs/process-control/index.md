@@ -10,7 +10,7 @@ has_children: true
 ### 画面概要
 
 <table><tr><td>
-<img src="../../../assets/images/process-control/1.png" width="100%">
+<img src="../../assets/images/process-control/1.png" width="100%">
 </td></tr></table>
 
 ### 項目詳細
