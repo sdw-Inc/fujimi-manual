@@ -18,3 +18,6 @@ nav_order: 108
 
 - [物件毎型枠マスタの登録]({% link docs/product-registration/property-formwork/index.md%})　追加
 
+### 2024/10/18 
+
+- [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　追加
