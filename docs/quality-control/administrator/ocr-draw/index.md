@@ -51,6 +51,15 @@ OCR読取はMacもしくはiPadのみで使用できる機能です。
     <img src="../../../../assets/images/quality-control/administrator/ocr-draw/5.png" width="85%">
     </td></tr></table>
 
+1. OCR読取を行いたい図面を選択します。
+
+    <table><tr><td>
+    <img src="../../../../assets/images/quality-control/administrator/ocr-draw/17.png" width="75%">
+    </td></tr></table>
+
+    {: .warning }
+    読取箇所が違う図面は分けてOCR読取を行なってください。
+
 1. 読み取りたい範囲を四角枠で囲います。読取範囲を指定したら、「次へ」を選択します。
 
     - <span style="color: red; ">赤枠</span>：部材名（製品番号）  
@@ -61,7 +70,7 @@ OCR読取はMacもしくはiPadのみで使用できる機能です。
     </td></tr></table>
 
     {: .note }
-    登録されている図面の一枚目のみ表示されます。また、読取範囲は他の図面も共通となります。
+    選択した図面の一枚目が表示されます。
 
 1. OCR読取結果が表示されます。内容を確認したら「OCR保存」選択でOCR読取を完了します。
 
@@ -71,6 +80,9 @@ OCR読取はMacもしくはiPadのみで使用できる機能です。
 
     {: .note }
     読み取った部材名と図面番号はこの画面上でも後からでも修正が可能です。
+
+    {: .note }
+    OCR読取を分けて行う場合は、読取図面選択画面まで戻って図面を選択し直してください。
 
     {: .warning }
     「OCR保存」を行うとOCR読取をやり直すことができなくなります。

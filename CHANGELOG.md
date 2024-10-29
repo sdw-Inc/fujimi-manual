@@ -21,3 +21,7 @@ nav_order: 108
 ### 2024/10/18 
 
 - [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　追加
+
+### 2024/10/29 
+
+- [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　更新
