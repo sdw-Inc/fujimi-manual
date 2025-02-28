@@ -29,3 +29,7 @@ nav_order: 108
 ### 2025/01/08 
 
 - [OCR図面アップロード]({% link docs/quality-control/administrator/ocr-draw/index.md%})　更新
+
+### 2025/02/28 
+
+- [生コン依頼機能]({% link docs/concrete-request/index.md%})　追加
