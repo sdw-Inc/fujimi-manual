@@ -33,3 +33,9 @@ nav_order: 108
 ### 2025/02/28 
 
 - [生コン依頼機能]({% link docs/concrete-request/index.md%})　追加
+
+### 2025/07/28 
+
+- [生コン依頼機能]({% link docs/concrete-request/function/index.md%})　更新
+
+- [図面番号一覧CSV出力]({% link docs/quality-control/administrator/csv-drawnumber/index.md%})　追加
